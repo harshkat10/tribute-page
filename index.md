@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/harshkat10/tribute-page/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/harshkat10/tribute-page/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# My guitars
+This tribute page is about my guitars. I like them a lot and play them a lot. I got my first guitar as a gift from a friend, who got himself a better guitar so he 
+gave me this one. This sparked my interest on the instrument. I joined classes and learned to play a lot. Seeing my dedication my dad decided to buy me an electric
+guitar which is one of the best things ever. As a kid i could only dream of playing an electric guitar and how cool they looked when actual professionals played it.
+I play my guitars everyday without fail.
+They give me peace, solace they give me the chance to forget everything for a moment and just float away to music land :)
+Another thing is I don't want to learn all the pro techniques and give shows and do all that. I just want to play songs that I like and be happy with myself.
+there have been many occasions where i felt really bad and down but playing something on my guitar instantly lit me up.
+I absolutely reccomend you to pick an instrument, any of your choice and try to learn it. It can be no, will be hard at first but the satisfaction you get after 
+mastering playing the one song you love, is nothing short of bliss..
